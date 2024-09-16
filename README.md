@@ -9,7 +9,7 @@ Name: Gavin
 Position: Jr. SDE and Student
 Languages: ["Rust", "Java", "C++", "JS/TS", "Python", ...languages]
 Technologies: ["React", "Next", "Spring", "AWS", ...technologies]
-Interests: ["Language design", "Gaming", "Devtooling", "Ricing", "Music", ...interests]
+Interests: ["Language learning", "Gaming", "Devtooling", "Ricing", "Music", ...interests]
 ```
 
 
