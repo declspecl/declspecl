@@ -2,7 +2,7 @@
 
 Hey, I'm Gavin. Check out my [portfolio website](https://www.gavindhondt.com/) to learn more about me!
 
-```hs
+```rb
 [declspecl] ~ $ mefetch
 
 declspecl@github
