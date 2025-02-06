@@ -9,9 +9,9 @@ declspecl@github
 ----------------
 Name: "Gavin D'Hondt"
 Position: "Jr. SDE and Student"
-Languages: ["Rust", "Java", "JS/TS", "C++", "Python", ...languages]
-Technologies: ["React", "Next", "Spring", "AWS", ...technologies]
-Interests: ["Gaming", "Music", "Learning new things", ...interests]
+Languages: ["Rust", "Java", "TS/JS", "C++", "Python", ...languages]
+Technologies: ["AWS", "React", "Next.js", ...technologies]
+Interests: ["Music", "Learning new things", ...interests]
 ```
 
 <!-- ![Top Languages Used](https://github-readme-stats-omega-ochre-80.vercel.app/api/top-langs/?username=declspecl&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&exclude_repo=ValoGuessr,PokeRPS,firstOGLUI,OpenGoLf,pong,firstTriangle&hide=c) -->
